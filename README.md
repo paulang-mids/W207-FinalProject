@@ -5,7 +5,7 @@ The dataset was provided by Jock A. Blackard and Colorado State University and t
 
 The files included in this repository are:
 - **ForestCoverPrediction.ipynb** - This notebook has all the code used for Exploratory Data Analysis, Model Fitting and Predictions. The total runtime for the entire notebook is close to **15 minutes**. 
-- **test.csv** - This is the file with the test data.
+- **test.csv** - This is the file with the test data. Please note that the size of this file is 72 MB.
 - **train.csv** - This is the filw with the training data.
 - **KaggleScores.png** - Image of the Kaggle scores
 - **Submission_FinalModel.csv** - Predictions for the first submission to Kaggle
