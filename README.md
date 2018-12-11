@@ -12,4 +12,4 @@ The files included in this repository are:
 - **Submission_Ensemble.csv** - Predictions for the second submission to Kaggle
 - **Submission_ETCModel.csv** - Predictions for the third submission to Kaggle
 	
-In order for the notebook to run properly, the notebook, train data file and test data file should be downloaded and placed in the same folder. 
+**In order for the notebook to run properly, the notebook, train data file and test data file should be downloaded and placed in the same folder. **
